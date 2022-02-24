@@ -16,8 +16,8 @@ body {
 .body-section{
   background-color: #CFFFB3;
   padding: 2rem;
-  padding-top: 25vh;
-  padding-bottom: 25vh;
+  padding-top: 32vh;
+  padding-bottom: 32vh;
 }
 
 .column {
@@ -35,4 +35,4 @@ body {
   .column {
     width: 100%;
   }
-}Ï
+}
