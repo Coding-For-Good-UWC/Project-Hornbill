@@ -7,35 +7,6 @@ body {
   padding: 0;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #ADE25D;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color:  black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-li a:hover:not(.active) {
-  background-color: #CFFFB3;
-}
-
-.active {
-  background-color: #FCEC52;
-}
-
 #header-section {
   padding-top: 47.5vh;
   padding-bottom: 47.5vh;
