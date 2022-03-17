@@ -58,3 +58,15 @@ body {
     width: 100%;
   }
 }
+
+#map-section {
+  padding-top: 15vh;
+  text-align: center;
+}
+
+#map {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
